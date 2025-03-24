@@ -1,0 +1,9 @@
+Project Description
+
+This project focuses on building a well-structured HTML5 webpage using modern semantic elements. Students will develop a webpage that includes a structured layout with sections such as a header, navigation menu, main content area, sidebar, and footer. The goal is to improve webpage accessibility, readability, and maintainability by utilizing appropriate HTML5 elements. Additionally, students will implement a contact form with built-in validation to enhance user interaction and data collection.
+
+A key aspect of this project is ensuring code quality and adherence to web standards. Students will validate their HTML code using the W3C Validator to detect and fix any errors or warnings. This step ensures compliance with best practices and enhances the reliability of the webpage across different browsers. By following the validation process, students will gain hands-on experience in debugging and refining their HTML code.
+
+Version control and collaboration are also integral components of this project. Students will use Git and GitHub to track their code changes, create repositories, and collaborate with their peers. They will fork a partner’s repository, make modifications, and submit a pull request, simulating real-world software development practices. This exercise reinforces teamwork and provides practical exposure to version control systems.
+
+By completing this lab, students will develop essential skills for web development, including writing valid and semantic HTML, implementing form validation, and managing projects using GitHub. The project ensures that students not only create functional webpages but also follow industry best practices. Ultimately, this lab will prepare students for future projects where structured coding, validation, and version control are critical to professional web development.
